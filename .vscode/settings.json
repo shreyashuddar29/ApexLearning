@@ -10,6 +10,7 @@
     "**/.hg": true,
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
-    "**/*.cls-meta.xml": true
+    "**/*.cls-meta.xml": true,
+    ".mule": true
   }
 }
